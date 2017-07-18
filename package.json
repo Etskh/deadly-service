@@ -1,0 +1,22 @@
+{
+  "name": "pos-services",
+  "version": "0.0.1",
+  "description": "",
+  "main": "pos-services.js",
+  "scripts": {
+    "dev": "nodemon pos-services.js",
+    "start": "node pos-services.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "etskh",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "body-parser": "^1.17.2",
+    "bunyan": "^1.8.10",
+    "express": "^4.15.3",
+    "fetchdb": "git+https://github.com/Etskh/fetchdb.git",
+    "lodash": "^4.17.4",
+    "md5": "^2.2.1"
+  }
+}

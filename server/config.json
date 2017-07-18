@@ -1,0 +1,6 @@
+{
+    "dbConfig": {
+        "filename": "./db.sqlite3",
+        "type": "sqlite3"
+    }
+}
