@@ -1,8 +1,8 @@
 {
-  "name": "pos-services",
+  "name": "deadly-services",
   "version": "0.0.1",
   "description": "",
-  "main": "pos-services.js",
+  "main": "deadly-services.js",
   "scripts": {
     "dev": "nodemon pos-services.js",
     "start": "node pos-services.js",

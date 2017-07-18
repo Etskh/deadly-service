@@ -1,0 +1,5 @@
+# node files
+node_modules
+
+# local storage
+db.sqlite3
